@@ -1,0 +1,11 @@
+# pyside6-rcc style.qrc > style_rc.py
+python main.py
+
+Drag-n-Drop useful links:
+
+https://doc.qt.io/qt-6.2/qml-qtquick-drag.html
+https://doc.qt.io/qt-6.2/qtquick-draganddrop-example.html
+https://doc.qt.io/qt-6.2/qml-qtquick-mousearea.html
+https://doc.qt.io/qt-6.2/qml-qtquick-image.html
+https://doc.qt.io/qt-6.2/dnd.html
+https://doc.qt.io/qt-6.2/qdrag.html#details
